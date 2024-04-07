@@ -92,7 +92,7 @@ body{
 
 .container header .profile img{
     position: relative;
-    width: 10%;
+    width: 30%;
     aspect-ratio: 1/1;
     object-fit: cover;
     border-radius: 16px;
